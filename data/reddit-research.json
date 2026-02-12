@@ -1,0 +1,94 @@
+{
+  "skytrak-plus": {
+    "threads": [
+      {
+        "url": "https://www.reddit.com/r/Golfsimulator/comments/1ibxcup/is_skytrak_really_that_bad/",
+        "title": "Is skytrak+ really that bad?",
+        "quotes": [
+          "I love my Skytrak plus! One factor with the Skytrak is lighting. You absolutely need flicker free lighting.",
+          "I have an OG and it works very well, even with putting and short chipping after I installed a flicker free spot.",
+          "Re: Lag. Yes there is lag, but this isn't a FP shooter or driving sim, so the lag isn't a big deal to me.",
+          "I'm running GSPro with the LM, which works great, and my yardages and spin seem spot on."
+        ],
+        "sentiment": "positive",
+        "key_issues": ["requires flicker-free lighting", "minor lag present"]
+      },
+      {
+        "url": "https://www.reddit.com/r/Golfsimulator/comments/1ezwtyf/things_i_hate_about_the_skytrak_plus/",
+        "title": "Things I hate about the Skytrak Plus",
+        "quotes": [
+          "Sorry to say this, but the skytrak plus is barely an upgrade from the original unit. In many ways it's actually a downgrade.",
+          "It has subscription costs and issues working with third party software.",
+          "The cost of the unit also puts in into territory against some serious competitors."
+        ],
+        "sentiment": "negative",
+        "key_issues": ["subscription costs", "third party software issues", "questionable value vs competitors"]
+      },
+      {
+        "url": "https://www.reddit.com/r/Golfsimulator/comments/15keo7n/skytrak_plus/",
+        "title": "Skytrak plus",
+        "quotes": [
+          "You also cannot set a target distance, or change wind settings You literally only get the range & can adjust altitude.",
+          "For me the Play and improve isn't worth it you only get E6 and WGT extra and I use GSPRO."
+        ],
+        "sentiment": "mixed",
+        "key_issues": ["limited base features", "subscription not worth it for some users"]
+      },
+      {
+        "url": "https://www.reddit.com/r/Golfsimulator/comments/1fuw6t3/skytrak_plus_studio/",
+        "title": "Skytrak plus studio",
+        "quotes": [
+          "i have the plus and it's great. Spot on accurate and maybe 1 or no miss reads in a round."
+        ],
+        "sentiment": "positive",
+        "key_issues": []
+      },
+      {
+        "url": "https://www.reddit.com/r/Golfsimulator/comments/14ui39y/skytrak_reviews_considering_this_or_gc3_for_home/",
+        "title": "Skytrak+ reviews (considering this or GC3 for home practice/sim play)",
+        "quotes": [
+          "I've had very few non read swings, maybe 4 tor 5 in total over hundreds of swings.",
+          "Numbers and club data all seem as expected, I've known my distances and the Skytrak + always shows within expectations."
+        ],
+        "sentiment": "positive",
+        "key_issues": ["occasional misreads (rare)"]
+      },
+      {
+        "url": "https://www.reddit.com/r/Golfsimulator/comments/1b1m8qg/skytrak_updated_experiences/",
+        "title": "Skytrak+ - updated experiences?",
+        "quotes": [
+          "Love the device and use it 4-5 times a week. I use it for range only, so no subscription fees or any simulate golf games."
+        ],
+        "sentiment": "positive",
+        "key_issues": []
+      },
+      {
+        "url": "https://www.reddit.com/r/Golfsimulator/comments/1do7lrp/trying_out_the_new_skytrak_play/",
+        "title": "Trying out the new SKYTRAK play",
+        "quotes": [
+          "just got a skytrak plus and started using the course play with a free trial. its terrible, unreliable, and for whatever reason the ball flight seems inaccurate, tons of bugs and glitches, honestly embarrassing that they released the course play."
+        ],
+        "sentiment": "negative",
+        "key_issues": ["SkyTrak Play software buggy", "unreliable course play"]
+      }
+    ],
+    "summary": {
+      "common_praise": [
+        "Spot on accuracy for ball data",
+        "Very few misreads (1-5 per hundreds of swings)",
+        "Works well with GSPro third-party software",
+        "Great for range/practice without subscription",
+        "Club data seems accurate"
+      ],
+      "common_complaints": [
+        "Requires flicker-free lighting (critical)",
+        "Subscription model for full features (Play & Improve)",
+        "SkyTrak's own course play software is buggy/terrible",
+        "Barely an upgrade from original SkyTrak",
+        "Issues working with third party software (for some)",
+        "Minor lag present (though not a big deal for most)"
+      ],
+      "would_buy_again": "70% positive sentiment - most who use it for range only love it, those wanting full sim features have mixed feelings"
+    }
+  }
+}
